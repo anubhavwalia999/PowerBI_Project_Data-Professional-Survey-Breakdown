@@ -10,7 +10,7 @@ Data Scientist, Data Engineer, Data Architect, Data Analyst, Database Developer,
 
 - **Favorite Programming Languages:**
 
-- **Top Languages:** Python, R, C/C++, JavaScript, Java
+**Top Languages:** Python, R, C/C++, JavaScript, Java
 
 - **Geographical Distribution:**
 
